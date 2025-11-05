@@ -1,4 +1,4 @@
-# BigBasket-Products-Analysis
+# BigBasket Products Analysis
 
 Designed and trained the supervised learning model and used visualization tools like matplotlib or seaborn to visualize the data.
 
