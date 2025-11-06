@@ -6,7 +6,7 @@ Implemented a Streamlit web application to display the dashboard and get specifi
 
 Created a interactive dashboard using Power BI.
 
-Tools used: Jupyter notebook, Python, Streamlit, Ploty, Power BI.
+Tools used: Jupyter notebook, Python, Streamlit, Power BI.
 
 # Kaggle Dataset
 
