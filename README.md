@@ -8,6 +8,10 @@ Created a dashboard using Ploty and Power BI.
 
 Tools used: Jupyter notebook, Python, Streamlit, Ploty, Power BI.
 
+# Kaggle Dataset
+
+https://www.kaggle.com/datasets/amrit0611/big-basket-product-analysis
+
 # Images
 
 <img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/17346371-8c25-4489-be5d-1cc8ce101e86" />
