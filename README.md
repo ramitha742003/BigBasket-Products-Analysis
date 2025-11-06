@@ -20,7 +20,6 @@ https://www.kaggle.com/datasets/amrit0611/big-basket-product-analysis
 
 # Image of Power BI Dashboard 
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b42309b2-b5dd-461e-b091-b86905a4972a" />
-
+<img width="573" height="323" alt="image" src="https://github.com/user-attachments/assets/ea438dbd-0a1a-446a-969d-7e1a3dcfd775" />
 
 
