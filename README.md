@@ -4,7 +4,7 @@ Designed and trained the supervised learning model and used visualization tools 
 
 Implemented a Streamlit web application to display the dashboard and get specific product's information from the dataset.
 
-Created a dashboard using Ploty and Power BI.
+Created a interactive dashboard using Power BI.
 
 Tools used: Jupyter notebook, Python, Streamlit, Ploty, Power BI.
 
