@@ -10,10 +10,13 @@ Tools used: Jupyter notebook, Python, Streamlit, Ploty, Power BI.
 
 # Images
 
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/17346371-8c25-4489-be5d-1cc8ce101e86" />
 
+<img width="940" height="326" alt="image" src="https://github.com/user-attachments/assets/6fc209fe-6f4d-44bf-8c32-4668ad6feefd" />
 
 # Image of Power BI Dashboard 
 
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b42309b2-b5dd-461e-b091-b86905a4972a" />
 
 
 
